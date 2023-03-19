@@ -1,0 +1,2 @@
+br/com/kleryton/aws_project02/AwsProject02Application.java
+ br.com.kleryton.aws_project02.AwsProject02Application

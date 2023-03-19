@@ -1,0 +1,4 @@
+com\myorg\AwsKsmSdkApp.class
+com\myorg\VpcStack.class
+com\myorg\AwsKsmSdkStack.class
+com\myorg\ClusterStack.class
